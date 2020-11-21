@@ -1,4 +1,5 @@
 <view class="container">
+  <!--龙哥git测试 -->
   <!-- 区域1 地区选择器 -->
   <picker mode="region" bindchange="changeRegion">
     <view>{{region}}</view>
